@@ -36,7 +36,7 @@ $fecha = fecha();
 				<br>
 				<img src="../img/icons/mail.png" style="width: 20px; height: 15px;" />&nbsp;&nbsp;&nbsp;
 					<a href="mailto:fdxprogrammer@gmail.com" style="font-size: 12px; text-decoration: none;">
-						fdxprogrammer@gmail.com
+						fdxdesarrollos@gmail.com
 					</a>
 				<br>
 				<img src="../img/icons/world.png" style="width: 20px; height: 20px;" />&nbsp;&nbsp;&nbsp;
