@@ -40,7 +40,7 @@ $fecha = fecha();
 					</a>
 				<br>
 				<img src="../img/icons/world.png" style="width: 20px; height: 20px;" />&nbsp;&nbsp;&nbsp;
-				<a href="http://fdxdesarrollo5.000webhostapp.com/" style="font-size: 12px; text-decoration: none;">
+				<a href="http://fdxdesarrollo5.000webhostapp.com/" style="font-size: 11px; text-decoration: none;">
 					fdxdesarrollo5.000webhostapp.com
 				</a>
 				<br>
@@ -49,7 +49,7 @@ $fecha = fecha();
 					<img src="../img/icons/user-gentleman.png" style="width: 20px; height: 20px;" />
 					Sobre Mí
 				</h3>
-				<p style="text-align: justify; padding-right: 10px;">
+				<p style="text-align: justify; padding-right: 10px; font-size: 14px;">
                     Soy desarrollador en tecnologías Web. Me apasiona el desarrollo de software, pues me gusta poder ofrecer nuevas perspectivas, impulsar mejoras y automatizar procesos adecuadamente.
                     <br><br>
                     Me gustaria ser parte de un equipo que me permita exponer las competencias requeridas, desempeñar mis habilidades y poner en practica mis conocimientos y experiencia, convirtiendome asi en un elemento que aporte a la organización lo necesario para el cumplimiento de sus objetivos.
@@ -78,6 +78,7 @@ $fecha = fecha();
 						<li>Inglés Técnico</li>
 					</ul>
 				</p>
+				<br>
 			</div>
 
 			<div id="content" style="width: 790px; margin: 0 auto 0 auto; padding-left: 10px; background-color: #fff;">
@@ -85,13 +86,13 @@ $fecha = fecha();
 					<img src="../img/icons/academy.png" style="width: 20px; height: 20px;" />
 					FORMACIÓN ACADÉMICA
 				</h3>
-				<p>
+				<p style="font-size: 14px;">
 					<strong>Universidad Insurgentes, Plantel Norte</strong>&nbsp;
 					<span style="font-style: italic;">(agosto 2011 - julio 2014)</span><br>
 					Licenciatura en Informática Administrativa<br>
 					<strong>Documento Recibido</strong>: Título y Cédula Profesional
 				</p>
-				<p>
+				<p style="font-size: 14px;">
 					<strong>CONALEP, Plantel Nezahualcóyotl III</strong>&nbsp;
 					<span style="font-style: italic;">(agosto 1998 - julio 2001)</span><br>
 					Profesional Técnico en Informática<br>
@@ -102,9 +103,9 @@ $fecha = fecha();
 					<img src="../img/icons/certificate.png" style="width: 20px; height: 20px;" />
 					CURSOS
 				</h3>
-				<p>
-				    <strong>> </strong>(2023 Udemy) Angular & Spring Boot: Creando WebApp Full Stack<br>
-					<strong>> </strong>(2022 Udemy) Spring Boot 2: Creando WebApp<br>
+				<p style="font-size: 14px;">
+				    <strong>> </strong>(2023 Udemy) Spring Boot y Angular: Creando aplicaciones full stack<br>
+					<strong>> </strong>(2022 Udemy) Angular & Spring Boot: Creando web app full stack<br>
 					<strong>> </strong>(2021 Udemy) Spring Boot 2 & Spring MVC Desarrollo Web<br>
 					<strong>> </strong>(2015 MediaTech) Desarrollo de Aplicaciones Web con PHP y MySQL
 				</p>
@@ -115,7 +116,7 @@ $fecha = fecha();
 				</h3>
 				<p style="font-size: 14px;">
 					<strong>Lenguajes</strong>: Java, PHP, Python, C#, VB.Net, C/C++, JavaScript, HTML 5 y CSS 3.<br>
-					<strong>Framewoks</strong>: Spring Boot, Codelgniter 3, jQuery y Bootstrap.<br>
+					<strong>Framewoks</strong>: Spring Boot, Angular, Codelgniter 3, Bootstrap y jQuery.<br>
 					<strong>Bases de Datos</strong>: MySQL (Views, Procedures, Triggers), SQLServer y Access.<br>
 					<strong>Sistemas Operativos</strong>: Ubuntu Linux, Fedora Linux, Windows.<br>
 					<strong>Ofimática</strong>: LibreOffice Community y Microsoft Office.<br>
